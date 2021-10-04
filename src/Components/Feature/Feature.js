@@ -18,8 +18,8 @@ const Feature = () => {
               </div>
               <h3>Top Instructors</h3>
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Tempore, magnam. Deserunt praesentium aliquid numquam saepe,
+                In our community,we provide you the top skilled instructors who
+                are very friendly and experienced.
               </p>
               <button className="w-50 py-2 px-2 mx-auto rounded">
                 Read More
@@ -33,8 +33,8 @@ const Feature = () => {
               </div>
               <h3>Portable Program</h3>
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Tempore, magnam. Deserunt praesentium aliquid numquam saepe,
+                We teach you with so amazing friendly environment and
+                entertainment.So,you can learn very fast.
               </p>
               <button className="w-50 py-2 px-2 mx-auto rounded">
                 Read More
@@ -48,8 +48,8 @@ const Feature = () => {
               </div>
               <h3>Best Multi-tier Courses</h3>
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Tempore, magnam. Deserunt praesentium aliquid numquam saepe,
+                Here, you find best top multi-tier courses.So, you can choose
+                your desirable course for your career.
               </p>
               <button className="w-50 py-2 px-2 mx-auto rounded">
                 Read More
@@ -63,8 +63,8 @@ const Feature = () => {
               </div>
               <h3>Improve Quickly</h3>
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Tempore, magnam. Deserunt praesentium aliquid numquam saepe,
+                With us you can improve yourself so quickly.Also, if you need
+                any support we are here for you.
               </p>
               <button className="w-50 py-2 px-2 mx-auto rounded">
                 Read More

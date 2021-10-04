@@ -9,7 +9,7 @@ const Header = () => {
       {/* navigation menu  */}
       <Navbar expand="lg" className="pt-3 shadow-sm">
         <Container>
-          <Navbar.Brand href="#home" className="logo fs-2">
+          <Navbar.Brand href="/home" className="logo fs-2">
             Tech <span>World.</span>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />

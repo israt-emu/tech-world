@@ -18,10 +18,14 @@ const About = () => {
             <h5>Welcome to Tech World</h5>
             <h2>Something About us..</h2>
             <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex iusto
-              tempore placeat consequuntur. Quidem magni blanditiis aspernatur
-              amet, veritatis aperiam est voluptate ex suscipit obcaecati rerum
-              non quam similique quibusdam?
+              Flexible easy to access learning opprtunities can bring a
+              significant change in how individuals prefer to learn!
+              <br /> We teach student with friendly atmosphere almost after 10
+              years.In our commuinity, we recruit top experienced and skilled
+              instructors to teach our students.Also, we support students as
+              much as they need to develop their skill. <br />
+              So,You can join with Tech World and upgrade your skill for your
+              bright future.
             </p>
             <Link to="/services">
               <button className="py-2 px-3 rounded">Exlore courses</button>
