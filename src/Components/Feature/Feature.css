@@ -1,0 +1,17 @@
+.icon i {
+  font-size: 25px;
+  color: #309255;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  border: 1px solid#309255;
+  border-radius: 5px;
+}
+.feature button {
+  background: #27293d;
+  color: white;
+  border: 0;
+}
+#feature {
+  background: #f7f2ef;
+}

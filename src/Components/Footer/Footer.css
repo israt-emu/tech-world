@@ -1,0 +1,23 @@
+.footer {
+  background: #27293d;
+  color: white;
+}
+.footer ul {
+  list-style: none;
+}
+.footer ul li {
+  padding: 5px 0;
+  font-size: 18px;
+}
+.footer p {
+  font-size: 17px;
+}
+.input {
+  border: none;
+  background: #ddd;
+}
+.button {
+  background: #309255;
+  color: white;
+  border: none;
+}

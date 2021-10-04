@@ -1,0 +1,17 @@
+.logo {
+  font-weight: bold;
+  color: #27293d;
+}
+.logo span {
+  color: #309255;
+}
+.link {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+  font-size: 17px;
+}
+.link:hover,
+.link.active {
+  color: #309255;
+}
