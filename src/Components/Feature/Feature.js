@@ -4,6 +4,7 @@ import "./Feature.css";
 
 const Feature = () => {
   return (
+    //feature section
     <div className="py-5">
       <Container>
         <h1 className="text-center border-bottom w-25 mx-auto pb-2">

@@ -6,7 +6,9 @@ import Service from "../Service/Service";
 import "./HomePageService.css";
 
 const HomePageService = () => {
-  const [services, setServices] = useService();
+  //get data from custom hook
+  const [services] = useService();
+  //array slice for showing 4 data only
   const homeServices = services.slice(1, 5);
   return (
     <div className="service-container py-5">

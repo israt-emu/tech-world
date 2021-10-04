@@ -5,6 +5,7 @@ import img from "../../images/b3206d35876b3ae0fa7340ee9780b819.png";
 import "./About.css";
 
 const About = () => {
+  //about us page
   return (
     <div className="about py-5">
       <Container>

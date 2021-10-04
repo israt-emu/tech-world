@@ -5,8 +5,10 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <div className="footer py-5">
+      {/* footer  */}
       <Container>
         <Row lg="3">
+          {/* footer first column  */}
           <Col>
             <ul>
               <li>Blog</li>
@@ -15,6 +17,7 @@ const Footer = () => {
               <li>Get A Support</li>
             </ul>
           </Col>
+          {/* footer 2nd column  */}
           <Col>
             <ul>
               <li>
@@ -31,6 +34,7 @@ const Footer = () => {
               </li>
             </ul>
           </Col>
+          {/* footer 3rd column  */}
           <Col>
             <p>
               Your email is safe with us and <br />

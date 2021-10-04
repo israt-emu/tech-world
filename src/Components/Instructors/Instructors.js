@@ -9,6 +9,7 @@ import img6 from "../../images/model-2911332_1920.jpg";
 import "./Instructors.css";
 
 const Instructors = () => {
+  //team instructors page
   return (
     <div className="py-5 instructors">
       <Container>

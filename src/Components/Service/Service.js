@@ -2,8 +2,10 @@ import React from "react";
 import { Card, Col } from "react-bootstrap";
 import "./Service.css";
 const Service = (props) => {
+  //destructuring props
   const { courseName, img, price } = props.service;
   return (
+    //single service
     <div>
       <Col>
         <Card className="h-100">

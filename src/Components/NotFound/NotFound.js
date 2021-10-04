@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import img from "../../images/404.jpg";
 
 const NotFound = () => {
+  //404 page if any page doesn't found
   return (
     <div className="text-center py-5">
       <img src={img} width="400px" alt="" />

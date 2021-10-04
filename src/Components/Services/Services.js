@@ -4,8 +4,10 @@ import useService from "../../hooks/useService";
 import Service from "../Service/Service";
 
 const Services = () => {
-  const [services, setServices] = useService();
+  //get data from custom hook
+  const [services] = useService();
   return (
+    //services page
     <div className="service-container py-5">
       <Container>
         <h1 className="service-title mb-5 text-center">

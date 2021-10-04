@@ -5,6 +5,7 @@ import "./Hero.css";
 
 const Hero = () => {
   return (
+    // hero section
     <div className="hero py-5">
       <Container>
         <Row className="align-items-center">
