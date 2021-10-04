@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "courseName": "Graphic Design",
+    "img": "https://image-loader.netlify.app/images/Graphic-Design-Vector-Illustration.jpg",
+    "price": 200
+  },
+  {
+    "id": 2,
+    "courseName": "Web Devlopment",
+    "img": "https://image-loader.netlify.app/images/web-development.jpg",
+    "price": 300
+  },
+  {
+    "id": 3,
+    "courseName": "Digital Marketing",
+    "img": "https://image-loader.netlify.app/images/digital%20marketing.jpg",
+    "price": 150
+  },
+  {
+    "id": 4,
+    "courseName": "Python Programming",
+    "img": "https://image-loader.netlify.app/images/python%201.png",
+    "price": 200
+  },
+  {
+    "id": 5,
+    "courseName": "SEO Strategy",
+    "img": "https://image-loader.netlify.app/images/seo.jpg",
+    "price": 100
+  },
+  {
+    "id": 6,
+    "courseName": "Develop IOS and Android",
+    "img": "https://image-loader.netlify.app/images/iOS-and-Android-App-Development.jpg",
+    "price": 250
+  },
+  {
+    "id": 7,
+    "courseName": "Data Science",
+    "img": "https://image-loader.netlify.app/images/data-science.jpg",
+    "price": 350
+  },
+  {
+    "id": 8,
+    "courseName": "Email Marketing",
+    "img": "https://image-loader.netlify.app/images/email.jpg",
+    "price": 100
+  },
+  {
+    "id": 9,
+    "courseName": "Wordpress Development",
+    "img": "https://image-loader.netlify.app/images/wordpress.jpg",
+    "price": 200
+  }
+]
